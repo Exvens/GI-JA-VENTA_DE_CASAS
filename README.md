@@ -68,7 +68,8 @@ Flujo de trabajo
 
 Instalación y ejecución
 - Clonar el repositorio:
-git clone <https://github.com/Exvens/Proyecto-final.git>
+git clone <https://github.com/Exvens/GI-JA-VENTA_DE_CASAS
+.git>
 cd Proyecto-final
 - Crear y activar entorno virtual:
 python -m venv .venv
